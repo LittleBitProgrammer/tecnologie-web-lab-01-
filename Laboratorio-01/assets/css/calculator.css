@@ -1,0 +1,47 @@
+.calculator{
+    width: 40%;
+}
+
+.button{
+    border: 1px solid #383941 ;
+    outline: 0 none;
+    background-color: #777C80;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.operation{
+    outline: 0 none;
+    background-color: #FEA00A;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 1px solid #383941 ;
+}
+
+.button:hover{
+    background-color: rgb(119, 124, 128,0.7);
+}
+
+.operation:hover{
+    background-color: rgb(254, 160, 10,0.7);
+}
+
+
+.display{
+    border: 0px;
+    outline: 0 none;
+    background-color: #383941;
+    color: white;
+    font-size: 18pt;
+    text-align: right;
+}
+
+/* .row{
+    border: black 7px solid;
+    height: 20%;
+}
+
+
+.jumbotron{
+    height: 100vh;
+} */
